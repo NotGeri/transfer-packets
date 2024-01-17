@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "thief",
+  "version": "${version}",
+  "name": "Thief",
+  "description": "",
+  "authors": [],
+  "mixins": [
+    "thief.mixins.json"
+  ],
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}

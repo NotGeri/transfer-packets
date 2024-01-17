@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.geri.thief.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "server": [
+    "Thief"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
